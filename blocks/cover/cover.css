@@ -1,0 +1,11 @@
+.cover {
+    background-image: url(../../img/cover/__background.png);
+    position: relative;
+    background-color: #2a2c2f;
+    margin-top: 60px;
+    margin-right: 48px;
+    margin-left: 48px;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}

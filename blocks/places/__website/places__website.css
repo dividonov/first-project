@@ -1,3 +1,6 @@
 .places__website {
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
